@@ -8,3 +8,9 @@
 
 --Positive: Majestic airship, Victorian design, gears, steam, floating city, golden sunset.
 --Negative: Pixelated, messy composition, unnatural shadows, broken details.
+
+
+3. Fantasy Warrior in Battle
+
+--Positive: Heroic warrior, detailed armor, dynamic pose, cinematic lighting, epic battle scene.
+--Negative: Deformed limbs, bad anatomy, blurry, extra fingers.
